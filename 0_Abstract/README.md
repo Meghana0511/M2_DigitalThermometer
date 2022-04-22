@@ -1,0 +1,2 @@
+DIGITAL THERMOMETER
+                Thermometers are the device we use to measure the temperature in any desired scale and we all will be quite familiar with the analog thermometers. There are some disadvantages in analog thermometers and this can be overcome by using this digital thermometer using avr. The above embedded system shows the design and implementation of a simple Digital Thermometer using Atmega16 (AVR),  LM35 & 16×2 LCD.
